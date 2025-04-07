@@ -19,7 +19,7 @@ Heyyaa! 👋<br><br>My name is BlackHorse ..
 [![](https://visitcount.itsvg.in/api?id=BIackHorse&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BIackHorse/BlackHorse/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BIackHorse/BlackHorse/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BlackHorse/BlackHorse/output/github-snake.svg" />
 </picture>
